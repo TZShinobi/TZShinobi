@@ -1,7 +1,7 @@
 
 ### Olá, meu nome é Tiago Zaparoli 👋
 
-## Sou aluno de Engenharia de Computação da Unicamp, turma de 2023
+## Sou aluno de Engenharia de Computação da Unicamp, Turma de 2023
 * No momento minhas principais linguagens são Python e C;
 * Tenho grande interesse em projetos e desenvolvimento de sistemas embarcados;
 
