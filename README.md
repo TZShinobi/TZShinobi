@@ -3,6 +3,7 @@
 
 ## Sou aluno de Engenharia de Computação da Unicamp, Turma de 2023
 * No momento minhas principais linguagens são Python e C
+* Ainda estou aprendendo C e em breve começarei a estudar C++
 * Tenho grande interesse em projetos e desenvolvimento de sistemas embarcados
 
 ##
