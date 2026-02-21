@@ -15,5 +15,5 @@
 ![TZShinobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TZShinobi&show_icons=true&theme=moltack&locale&hide_border=true&hide)
 
 ### Linguagens e Tecnologias utilizadas:
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,rust,latex,git,debian&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,latex,git,debian&perline=8)](https://skillicons.dev)
 
